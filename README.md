@@ -23,3 +23,7 @@ https://en.wikipedia.org/wiki/Tower_of_Hanoi
 约瑟夫环
 https://en.wikipedia.org/wiki/Josephus_problem
 <br>
+
+背包问题
+https://en.wikipedia.org/wiki/Knapsack_problem
+<br>
