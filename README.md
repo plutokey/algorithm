@@ -27,3 +27,8 @@ https://en.wikipedia.org/wiki/Josephus_problem
 背包问题
 https://en.wikipedia.org/wiki/Knapsack_problem
 <br>
+
+字符串匹配问题
+https://en.wikipedia.org/wiki/String-searching_algorithm
+https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
+<br>
