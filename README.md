@@ -11,3 +11,7 @@ https://en.wikipedia.org/wiki/Knight's_tour
 迷宫问题
 https://en.wikipedia.org/wiki/Maze_solving_algorithm
 <br>
+
+汉诺塔
+https://en.wikipedia.org/wiki/Tower_of_Hanoi
+<br>
