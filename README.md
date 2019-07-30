@@ -36,3 +36,7 @@ https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm
 最短路径问题
 https://en.wikipedia.org/wiki/Shortest_path_problem
 <br>
+
+霍夫曼编码问题
+https://en.wikipedia.org/wiki/Huffman_coding
+<br>
