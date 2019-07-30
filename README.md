@@ -7,3 +7,7 @@ https://en.wikipedia.org/wiki/Eight_queens_puzzle
 骑士周游问题
 https://en.wikipedia.org/wiki/Knight's_tour 
 <br>
+
+迷宫问题
+https://en.wikipedia.org/wiki/Maze_generation_algorithm
+<br>
