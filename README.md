@@ -15,3 +15,7 @@ https://en.wikipedia.org/wiki/Maze_solving_algorithm
 汉诺塔
 https://en.wikipedia.org/wiki/Tower_of_Hanoi
 <br>
+
+约瑟夫环
+https://en.wikipedia.org/wiki/Josephus_problem
+<br>
