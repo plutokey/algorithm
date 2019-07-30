@@ -9,5 +9,5 @@ https://en.wikipedia.org/wiki/Knight's_tour
 <br>
 
 迷宫问题
-https://en.wikipedia.org/wiki/Maze_generation_algorithm
+https://en.wikipedia.org/wiki/Maze_solving_algorithm
 <br>
