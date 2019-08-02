@@ -40,3 +40,7 @@ https://en.wikipedia.org/wiki/Shortest_path_problem
 霍夫曼编码问题
 https://en.wikipedia.org/wiki/Huffman_coding
 <br>
+
+秒懂資料結構 施保旭著
+http://hunteq.com/wunanc/wunankm?!!SB9789571184586
+<br>
