@@ -47,3 +47,6 @@ http://hunteq.com/wunanc/wunankm?!!SB9789571184586
 
 五南图书
 http://hunteq.com/wunanc/wunankm?@@0.07703479066927366
+
+基礎線性代數
+http://hunteq.com/wunanc/wunankm?.c4a40B02010603A000100010^0000000000000C0000000C0E00711004309
